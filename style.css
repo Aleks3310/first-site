@@ -33,7 +33,7 @@ h2 {
   height: 186px;
   margin-bottom: 70px;
   padding-top: 30px;
-  background: #847462 no-repeat center url("img/gloevk-bg.jpg");
+  background: #847462 no-repeat center url("gloevk-bg.jpg");
   background-size: cover;
   color: #ffffff;
 }
@@ -69,17 +69,17 @@ h2 {
 
 .feature-furniture {
   padding-top: 65px;
-  background-image: url("img/furniture.svg");
+  background-image: url("furniture.svg");
 }
 
 .feature-lighting {
   padding-top: 65px;
-  background-image: url("img/lighting.svg");
+  background-image: url("lighting.svg");
 }
 
 .feature-accessories {
   padding-top: 65px;
-  background-image: url("img/accessories.svg");
+  background-image: url("accessories.svg");
 }
 
 .advantages {
